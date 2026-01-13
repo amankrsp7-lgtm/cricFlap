@@ -1,0 +1,5 @@
+{
+  "name": "CricFlap: Kohli vs Gambhir",
+  "description": "A Flappy Bird style game featuring Virat Kohli collecting MS Dhoni coins while avoiding Gautam Gambhir obstacles. Includes AI-powered match commentary.",
+  "requestFramePermissions": []
+}
